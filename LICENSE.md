@@ -1,0 +1,1 @@
+Keyboard image: Wikipedia user Deadcode. (CCL 3.0)

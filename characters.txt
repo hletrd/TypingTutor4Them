@@ -1,0 +1,28 @@
+//Put characters you want.
+characters[0] = {
+//가
+input: 'kf',
+image: './data/가-깋.gif',
+imagestart: [8, 5],
+imagesize: [25, 30],
+imageoffset: [70, 30]
+}
+
+characters[1] = {
+//걔
+input: 'kR',
+image: './data/가-깋.gif',
+imagestart: [8, 125],
+imagesize: [25, 30],
+imageoffset: [70, 30]
+}
+
+characters[2] = {
+//각
+input: 'kfx',
+image: './data/가-깋.gif',
+imagestart: [34, 5],
+imagesize: [25, 30],
+imageoffset: [70, 30]
+}
+
