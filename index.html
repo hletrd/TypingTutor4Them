@@ -92,6 +92,11 @@
 			text.data('text', '');
 			text.focus();
 
+			var spacer = $('<div>', {style: 'height: 25px'}).appendTo(main);
+
+			var imgc = $('<div>', {class: 'row'}).appendTo(main);
+			var img = $('<img>', {class: 'col-xs-12', src: 'keyboard.png'}).appendTo(imgc);
+
 
 			text.on('keydown', function(e) {
 				//console.log(e.keyCode);
